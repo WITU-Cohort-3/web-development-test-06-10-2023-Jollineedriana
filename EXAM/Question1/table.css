@@ -1,0 +1,12 @@
+th, td{
+    border: 3px ;
+    border-style: groove;
+    border-color: rgb(25, 153, 36);
+    
+}
+tr:nth-child(odd) {
+    background-color: rgb(66, 221, 86);
+  }
+  tr:nth-child(even){
+    background-color: rgb(96, 240, 96);
+  }
